@@ -1,0 +1,26 @@
+1. Class - Movie                                                                                                                                                     
+PG movies: Top Gun,World War                                                                                                                                         
+                                                                                                                                                                     
+2. Circle class                                                                                                                                                      
+Radius: 1                                                                                                                                                            
+New Radius: 2                                                                                                                                                        
+Color: red                                                                                                                                                           
+New Color: Green                                                                                                                                                     
+"Circle[radius=2,color=Green]"                                                                                                                                       
+Area: 4.44                                                                                                                                                           
+Crcumference: 12.57                                                                                                                                                  
+                                                                                                                                                                     
+3. Class to hond person data.                                                                                                                                        
+Person {                                                                                                                                                             
+  firstName: 'Kumaravel',                                                                                                                                            
+  lastName: 'Sundar',                                                                                                                                                
+  phoneNumber: '1234567890',                                                                                                                                         
+  emailID: 'kumaravelsk73@gmail.com',                                                                                                                                
+  gender: 'Male',                                                                                                                                                    
+  dob: '1998',                                                                                                                                                       
+  address: 'Chennai',                                                                                                                                                
+  qualification: 'B.E'                                                                                                                                               
+}                                                                                                                                                                    
+                                                                                                                                                                     
+4. Class to calculate uber price                                                                                                                                     
+Ride Cost: 103
